@@ -1,6 +1,7 @@
 <h1>Amazon Clone Project</h1>
 This repository contains the source code for a clone of the Amazon website. The project includes HTML and CSS files to replicate the basic structure and styling of the Amazon homepage. The purpose of this project is to demonstrate front-end development skills in creating a responsive and visually appealing e-commerce website.
 <br>
+<br>
 
 Table of Contents<br>
 Introduction<br>
